@@ -1,0 +1,16 @@
+[
+  {
+    "episode_id": 0,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0000.png",
+    "target_image": "train/block_hammer_beat/target_0000.png"
+  },
+  {
+    "episode_id": 1,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0001.png",
+    "target_image": "train/block_hammer_beat/target_0001.png"
+  }
+]

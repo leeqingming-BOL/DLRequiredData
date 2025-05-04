@@ -1,0 +1,16 @@
+[
+  {
+    "episode_id": 18,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "test/block_handover/input_0018.png",
+    "target_image": "test/block_handover/target_0018.png"
+  },
+  {
+    "episode_id": 19,
+    "task_name": "block_hammer_beat",
+    "instruction": "handover the blocks",
+    "input_image": "test/block_handover/input_0019.png",
+    "target_image": "test/block_handover/target_0019.png"
+  }
+]
