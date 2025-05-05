@@ -1,0 +1,632 @@
+[
+  {
+    "episode_id": 0,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0000.png",
+    "target_image": "train/block_handover/target_0000.png"
+  },
+  {
+    "episode_id": 1,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0001.png",
+    "target_image": "train/block_handover/target_0001.png"
+  },
+  {
+    "episode_id": 2,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0002.png",
+    "target_image": "train/block_handover/target_0002.png"
+  },
+  {
+    "episode_id": 3,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0003.png",
+    "target_image": "train/block_handover/target_0003.png"
+  },
+  {
+    "episode_id": 4,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0004.png",
+    "target_image": "train/block_handover/target_0004.png"
+  },
+  {
+    "episode_id": 5,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0005.png",
+    "target_image": "train/block_handover/target_0005.png"
+  },
+  {
+    "episode_id": 6,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0006.png",
+    "target_image": "train/block_handover/target_0006.png"
+  },
+  {
+    "episode_id": 7,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0007.png",
+    "target_image": "train/block_handover/target_0007.png"
+  },
+  {
+    "episode_id": 8,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0008.png",
+    "target_image": "train/block_handover/target_0008.png"
+  },
+  {
+    "episode_id": 9,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0009.png",
+    "target_image": "train/block_handover/target_0009.png"
+  },
+  {
+    "episode_id": 10,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0010.png",
+    "target_image": "train/block_handover/target_0010.png"
+  },
+  {
+    "episode_id": 11,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0011.png",
+    "target_image": "train/block_handover/target_0011.png"
+  },
+  {
+    "episode_id": 12,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0012.png",
+    "target_image": "train/block_handover/target_0012.png"
+  },
+  {
+    "episode_id": 13,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0013.png",
+    "target_image": "train/block_handover/target_0013.png"
+  },
+  {
+    "episode_id": 14,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0014.png",
+    "target_image": "train/block_handover/target_0014.png"
+  },
+  {
+    "episode_id": 15,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0015.png",
+    "target_image": "train/block_handover/target_0015.png"
+  },
+  {
+    "episode_id": 16,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0016.png",
+    "target_image": "train/block_handover/target_0016.png"
+  },
+  {
+    "episode_id": 17,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0017.png",
+    "target_image": "train/block_handover/target_0017.png"
+  },
+  {
+    "episode_id": 18,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0018.png",
+    "target_image": "train/block_handover/target_0018.png"
+  },
+  {
+    "episode_id": 19,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0019.png",
+    "target_image": "train/block_handover/target_0019.png"
+  },
+  {
+    "episode_id": 20,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0020.png",
+    "target_image": "train/block_handover/target_0020.png"
+  },
+  {
+    "episode_id": 21,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0021.png",
+    "target_image": "train/block_handover/target_0021.png"
+  },
+  {
+    "episode_id": 22,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0022.png",
+    "target_image": "train/block_handover/target_0022.png"
+  },
+  {
+    "episode_id": 23,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0023.png",
+    "target_image": "train/block_handover/target_0023.png"
+  },
+  {
+    "episode_id": 24,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0024.png",
+    "target_image": "train/block_handover/target_0024.png"
+  },
+  {
+    "episode_id": 25,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0025.png",
+    "target_image": "train/block_handover/target_0025.png"
+  },
+  {
+    "episode_id": 26,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0026.png",
+    "target_image": "train/block_handover/target_0026.png"
+  },
+  {
+    "episode_id": 27,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0027.png",
+    "target_image": "train/block_handover/target_0027.png"
+  },
+  {
+    "episode_id": 28,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0028.png",
+    "target_image": "train/block_handover/target_0028.png"
+  },
+  {
+    "episode_id": 29,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0029.png",
+    "target_image": "train/block_handover/target_0029.png"
+  },
+  {
+    "episode_id": 30,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0030.png",
+    "target_image": "train/block_handover/target_0030.png"
+  },
+  {
+    "episode_id": 31,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0031.png",
+    "target_image": "train/block_handover/target_0031.png"
+  },
+  {
+    "episode_id": 32,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0032.png",
+    "target_image": "train/block_handover/target_0032.png"
+  },
+  {
+    "episode_id": 33,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0033.png",
+    "target_image": "train/block_handover/target_0033.png"
+  },
+  {
+    "episode_id": 34,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0034.png",
+    "target_image": "train/block_handover/target_0034.png"
+  },
+  {
+    "episode_id": 35,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0035.png",
+    "target_image": "train/block_handover/target_0035.png"
+  },
+  {
+    "episode_id": 36,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0036.png",
+    "target_image": "train/block_handover/target_0036.png"
+  },
+  {
+    "episode_id": 37,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0037.png",
+    "target_image": "train/block_handover/target_0037.png"
+  },
+  {
+    "episode_id": 38,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0038.png",
+    "target_image": "train/block_handover/target_0038.png"
+  },
+  {
+    "episode_id": 39,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0039.png",
+    "target_image": "train/block_handover/target_0039.png"
+  },
+  {
+    "episode_id": 40,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0040.png",
+    "target_image": "train/block_handover/target_0040.png"
+  },
+  {
+    "episode_id": 41,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0041.png",
+    "target_image": "train/block_handover/target_0041.png"
+  },
+  {
+    "episode_id": 42,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0042.png",
+    "target_image": "train/block_handover/target_0042.png"
+  },
+  {
+    "episode_id": 43,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0043.png",
+    "target_image": "train/block_handover/target_0043.png"
+  },
+  {
+    "episode_id": 44,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0044.png",
+    "target_image": "train/block_handover/target_0044.png"
+  },
+  {
+    "episode_id": 45,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0045.png",
+    "target_image": "train/block_handover/target_0045.png"
+  },
+  {
+    "episode_id": 46,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0046.png",
+    "target_image": "train/block_handover/target_0046.png"
+  },
+  {
+    "episode_id": 47,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0047.png",
+    "target_image": "train/block_handover/target_0047.png"
+  },
+  {
+    "episode_id": 48,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0048.png",
+    "target_image": "train/block_handover/target_0048.png"
+  },
+  {
+    "episode_id": 49,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0049.png",
+    "target_image": "train/block_handover/target_0049.png"
+  },
+  {
+    "episode_id": 50,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0050.png",
+    "target_image": "train/block_handover/target_0050.png"
+  },
+  {
+    "episode_id": 51,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0051.png",
+    "target_image": "train/block_handover/target_0051.png"
+  },
+  {
+    "episode_id": 52,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0052.png",
+    "target_image": "train/block_handover/target_0052.png"
+  },
+  {
+    "episode_id": 53,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0053.png",
+    "target_image": "train/block_handover/target_0053.png"
+  },
+  {
+    "episode_id": 54,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0054.png",
+    "target_image": "train/block_handover/target_0054.png"
+  },
+  {
+    "episode_id": 55,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0055.png",
+    "target_image": "train/block_handover/target_0055.png"
+  },
+  {
+    "episode_id": 56,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0056.png",
+    "target_image": "train/block_handover/target_0056.png"
+  },
+  {
+    "episode_id": 57,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0057.png",
+    "target_image": "train/block_handover/target_0057.png"
+  },
+  {
+    "episode_id": 58,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0058.png",
+    "target_image": "train/block_handover/target_0058.png"
+  },
+  {
+    "episode_id": 59,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0059.png",
+    "target_image": "train/block_handover/target_0059.png"
+  },
+  {
+    "episode_id": 60,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0060.png",
+    "target_image": "train/block_handover/target_0060.png"
+  },
+  {
+    "episode_id": 61,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0061.png",
+    "target_image": "train/block_handover/target_0061.png"
+  },
+  {
+    "episode_id": 62,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0062.png",
+    "target_image": "train/block_handover/target_0062.png"
+  },
+  {
+    "episode_id": 63,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0063.png",
+    "target_image": "train/block_handover/target_0063.png"
+  },
+  {
+    "episode_id": 64,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0064.png",
+    "target_image": "train/block_handover/target_0064.png"
+  },
+  {
+    "episode_id": 65,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0065.png",
+    "target_image": "train/block_handover/target_0065.png"
+  },
+  {
+    "episode_id": 66,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0066.png",
+    "target_image": "train/block_handover/target_0066.png"
+  },
+  {
+    "episode_id": 67,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0067.png",
+    "target_image": "train/block_handover/target_0067.png"
+  },
+  {
+    "episode_id": 68,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0068.png",
+    "target_image": "train/block_handover/target_0068.png"
+  },
+  {
+    "episode_id": 69,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0069.png",
+    "target_image": "train/block_handover/target_0069.png"
+  },
+  {
+    "episode_id": 70,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0070.png",
+    "target_image": "train/block_handover/target_0070.png"
+  },
+  {
+    "episode_id": 71,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0071.png",
+    "target_image": "train/block_handover/target_0071.png"
+  },
+  {
+    "episode_id": 72,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0072.png",
+    "target_image": "train/block_handover/target_0072.png"
+  },
+  {
+    "episode_id": 73,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0073.png",
+    "target_image": "train/block_handover/target_0073.png"
+  },
+  {
+    "episode_id": 74,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0074.png",
+    "target_image": "train/block_handover/target_0074.png"
+  },
+  {
+    "episode_id": 75,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0075.png",
+    "target_image": "train/block_handover/target_0075.png"
+  },
+  {
+    "episode_id": 76,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0076.png",
+    "target_image": "train/block_handover/target_0076.png"
+  },
+  {
+    "episode_id": 77,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0077.png",
+    "target_image": "train/block_handover/target_0077.png"
+  },
+  {
+    "episode_id": 78,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0078.png",
+    "target_image": "train/block_handover/target_0078.png"
+  },
+  {
+    "episode_id": 79,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0079.png",
+    "target_image": "train/block_handover/target_0079.png"
+  },
+  {
+    "episode_id": 80,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0080.png",
+    "target_image": "train/block_handover/target_0080.png"
+  },
+  {
+    "episode_id": 81,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0081.png",
+    "target_image": "train/block_handover/target_0081.png"
+  },
+  {
+    "episode_id": 82,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0082.png",
+    "target_image": "train/block_handover/target_0082.png"
+  },
+  {
+    "episode_id": 83,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0083.png",
+    "target_image": "train/block_handover/target_0083.png"
+  },
+  {
+    "episode_id": 84,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0084.png",
+    "target_image": "train/block_handover/target_0084.png"
+  },
+  {
+    "episode_id": 85,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0085.png",
+    "target_image": "train/block_handover/target_0085.png"
+  },
+  {
+    "episode_id": 86,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0086.png",
+    "target_image": "train/block_handover/target_0086.png"
+  },
+  {
+    "episode_id": 87,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0087.png",
+    "target_image": "train/block_handover/target_0087.png"
+  },
+  {
+    "episode_id": 88,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0088.png",
+    "target_image": "train/block_handover/target_0088.png"
+  },
+  {
+    "episode_id": 89,
+    "task_name": "block_handover",
+    "instruction": "handover the blocks",
+    "input_image": "train/block_handover/input_0089.png",
+    "target_image": "train/block_handover/target_0089.png"
+  }
+]
