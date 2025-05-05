@@ -1,0 +1,128 @@
+[
+  {
+    "episode_id": 0,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0000.png",
+    "target_image": "train/block_hammer_beat/target_0000.png"
+  },
+  {
+    "episode_id": 1,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0001.png",
+    "target_image": "train/block_hammer_beat/target_0001.png"
+  },
+  {
+    "episode_id": 2,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0002.png",
+    "target_image": "train/block_hammer_beat/target_0002.png"
+  },
+  {
+    "episode_id": 3,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0003.png",
+    "target_image": "train/block_hammer_beat/target_0003.png"
+  },
+  {
+    "episode_id": 4,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0004.png",
+    "target_image": "train/block_hammer_beat/target_0004.png"
+  },
+  {
+    "episode_id": 5,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0005.png",
+    "target_image": "train/block_hammer_beat/target_0005.png"
+  },
+  {
+    "episode_id": 6,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0006.png",
+    "target_image": "train/block_hammer_beat/target_0006.png"
+  },
+  {
+    "episode_id": 7,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0007.png",
+    "target_image": "train/block_hammer_beat/target_0007.png"
+  },
+  {
+    "episode_id": 8,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0008.png",
+    "target_image": "train/block_hammer_beat/target_0008.png"
+  },
+  {
+    "episode_id": 9,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0009.png",
+    "target_image": "train/block_hammer_beat/target_0009.png"
+  },
+  {
+    "episode_id": 10,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0010.png",
+    "target_image": "train/block_hammer_beat/target_0010.png"
+  },
+  {
+    "episode_id": 11,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0011.png",
+    "target_image": "train/block_hammer_beat/target_0011.png"
+  },
+  {
+    "episode_id": 12,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0012.png",
+    "target_image": "train/block_hammer_beat/target_0012.png"
+  },
+  {
+    "episode_id": 13,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0013.png",
+    "target_image": "train/block_hammer_beat/target_0013.png"
+  },
+  {
+    "episode_id": 14,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0014.png",
+    "target_image": "train/block_hammer_beat/target_0014.png"
+  },
+  {
+    "episode_id": 15,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0015.png",
+    "target_image": "train/block_hammer_beat/target_0015.png"
+  },
+  {
+    "episode_id": 16,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0016.png",
+    "target_image": "train/block_hammer_beat/target_0016.png"
+  },
+  {
+    "episode_id": 17,
+    "task_name": "block_hammer_beat",
+    "instruction": "beat the block with the hammer",
+    "input_image": "train/block_hammer_beat/input_0017.png",
+    "target_image": "train/block_hammer_beat/target_0017.png"
+  }
+]
